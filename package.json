@@ -1,0 +1,27 @@
+{
+  "name": "learn-npm",
+  "version": "0.0.1",
+  "description": "menampilkan waktu solat untuk daerah Solo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RaihanAkram08/learn-npm.git"
+  },
+  "keywords": [
+    "learn",
+    "npm",
+    "javascript"
+  ],
+  "author": "Muhammad Raihan Akram Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaihanAkram08/learn-npm/issues"
+  },
+  "homepage": "https://github.com/RaihanAkram08/learn-npm#readme",
+  "dependencies": {
+    "adhan": "^4.4.3"
+  }
+}
